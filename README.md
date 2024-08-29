@@ -24,11 +24,9 @@ Este projeto simula a compra de ingressos em um site fictício. O usuário pode 
 
 1. Clone o repositório para sua máquina local:
 
-    ```bash
-    git clone (https://github.com/Leandro-Rocha81/Sistema-de-Compra-de-Ingressos.git)
-    ```
+    git clone https://github.com/Leandro-Rocha81/e-Ticket.git
 
-2. Abra o arquivo `index.html` no navegador utilizando um servidor local.
+2. Abra o arquivo https://e-ticket-sigma.vercel.app no navegador utilizando um servidor local.
 3. Escolha o tipo e a quantidade de ingressos e clique no botão "Comprar" para realizar a compra.
 4. A quantidade disponível será automaticamente atualizada, e alertas serão exibidos se houver erros na compra.
 
